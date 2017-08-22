@@ -1,0 +1,26 @@
+{
+  "name": "react-native-select",
+  "description": "React Native Select",
+  "version": "0.0.1",
+  "main": "index.js",
+  "nativePackage": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neuberoliveira/react-native-select.git"
+  },
+  "author": "Neuber Oliveira (neuberoliveira)",
+  "contributors": [],
+  "keywords": [
+    "react-native",
+    "react-native-select",
+    "react",
+    "native",
+    "select",
+    "dropdown",
+    "combobox"
+  ],
+  "devDependencies": {
+    "react": "16.0.0-alpha.12",
+	"react-prop-types": "^0.4.0"
+  }
+}
